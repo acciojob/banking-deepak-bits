@@ -1,6 +1,5 @@
 package com.driver;
 
-import java.util.HashMap;
 
 public class CurrentAccount extends BankAccount{
     String tradeLicenseId; //consists of Uppercase English characters only
